@@ -7,4 +7,3 @@ listing: posts
 ```{r, echo = FALSE, eval = FALSE}
 #distill::create_post("my post") # use this fonction to create a new post
 ```
-

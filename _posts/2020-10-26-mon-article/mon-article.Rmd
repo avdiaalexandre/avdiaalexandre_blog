@@ -1,0 +1,69 @@
+---
+title: "Article 1 : Stopping Deforestation Can Prevent Pandemics "
+description: |
+  This post is my first article which is about the link between ecosystems and pandemics.
+author:
+  - name: Alexandre Avdia
+    url: {}
+
+date: 10-26-2020
+#preview: 
+output:
+  distill::distill_article: 
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+## SOURCE OF THE ARTICLE WITH PUBLICATION DATE AND WORD COUNT:
+
+Source of the article: https://www.scientificamerican.com/article/stopping-deforestation-can-prevent-pandemics1/  
+(June 1, 2020)  
+Word count: 706
+
+## SUMMARY 
+
+Stopping Deforestation Can Prevent Pandemics
+
+In zoonotic cases, the animal involved mostly came from tropical forest.
+
+“Three quarters of the emerging pathogens that infect humans leaped from animals” wrote THE EDITORS. Lots of those animals are coming from forests that humans are deforesting.
+
+Deforesting leads to three situations for those animals. First, smaller living places that induce they can swap infectious microbes. Therefore raising the chances of novel strains. Then it leads to a reduction of biodiversity, the species that survive are more subject to host illness. Finally it heads to be more in contact with wildlife that hosts microbes.
+
+Solutions exist to prevent emerging pandemics , reducing meat and processed food consumption will decrease the demand for crops that are grown on land clear-cut forest. The creation of crops that resist to drought lowers the surface needed to farm.
+
+Another solution to prevent the emerging of pandemics is to find new outbreaks earlier by testing mammals known for hosting viruses and to map how viruses are moving thus it will be simple to test humans that are close to viral reservoirs. This surveillance will need to be widespread.
+
+The last solutions to prevent emergence of pandemics are to prohibit wet markets where pathogens have several times crossed over into humans. And to crack down on illegal wildlife trade which allows the spread of infectious agents far.
+
+## VOCABULARY
+  
+|     Word   from the text    |     Synonym/definition   in English                               |     French   translation                     |
+|-----------------------------|-------------------------------------------------------------------|----------------------------------------------|
+|     Leap                    |     Jump over                                                     |     Sauter                                   |
+|     Swap                    |     Exchange                                                      |     Échange                                  |
+|     Novel  strain           |     Strain that has not   been previously identified in humans    |     Nouvelle souche                          |
+|     To spillover            |     To overflow                                                   |     déborder                                 |
+|     Physician               |     doctor                                                        |     Médecin                                  |
+|     Drought                 |     No rain                                                       |     sécheresse                               |
+|     Yield                   |     Amount produced                                               |     Production                               |
+|     Outbreaks               |     Disease : sudden   occurrence                                 |     épidémie                                 |
+|     To tiptoe               |     Move stealthily                                               |     Se deplacer   sur la pointe des pieds    |
+|     To map                  |     Draw up a topographical   plan                                |     Cartographier                            |
+|     Widespread              |     Covering large area                                           |     Étendu                                   |
+|     Crack down              |     Law enforcement                                               |     Repression                               |
+|     Wet market              |     Live wild animals   market                                    |     Marché d’animaux vivants                 |
+|     Crossed over into       |     To pass                                                       |     Faire une percée dans                    |
+
+## ANALYSIS TABLE ABOUT THE STUDY
+  
+|     Researchers?                            |     THE EDITORS                                                                                                                                                                                              |
+|---------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|     Published in? when   (if mentioned)?    |     Scientific   American                                                                                                                                                                                    |
+|     General topic                           |     Deforestation can cause pandemics and   how to prevent pandemics                                                                                                                                         |
+|     Procedure/     what was examined        |     -discussing about zoonosis      -link between deforestation and   pandemics à   closer to host species                                                                                                   |
+|     Conclusions/   discovery                |     Stopping deforestation by changing our   way of eating and farming     Installing a surveillance of  the viral reservoir      Cracking down on illegal wildlife trade   and sale of live wild animals    |
+|     Remaining questions                     |     /                                                                                                                                                                                                        |
+

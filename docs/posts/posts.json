@@ -17,16 +17,31 @@
         "url": "https://guyliann.netlify.com/fr"
       }
     ],
-    "date": "2020-10-01",
+    "date": "2020-10-26",
     "categories": [
       "English for Science",
       "Bacteria",
       "Adaptation"
     ],
     "preview": "posts/2019-10-24-bacteria-antobiotics/images/jpg120051fa.png",
-    "last_modified": "2020-10-26T15:11:18+01:00",
+    "last_modified": "2020-10-26T16:51:44+01:00",
     "preview_width": 3333,
     "preview_height": 2667
+  },
+  {
+    "path": "posts/2020-10-26-mon-article/",
+    "title": "Article 1 : Stopping Deforestation Can Prevent Pandemics ",
+    "description": "This post is my first article which is about the link between ecosystems and pandemics.",
+    "author": [
+      {
+        "name": "Alexandre Avdia",
+        "url": {}
+      }
+    ],
+    "date": "2020-10-26",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2020-10-26T17:55:12+01:00"
   },
   {
     "path": "posts/2019-10-25-biggest-rodent/",
