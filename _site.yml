@@ -14,7 +14,7 @@ navbar:
 base_url: avdiaalexandre.github.io/avdiaalexandre_blog/
 collections:
     posts:
-      disqus: avdialexandre-blog
+      disqus: avdialexandre-blog-1
       share: [twitter, linkedin, facebook]
       #disqus: 
 output:
