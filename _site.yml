@@ -10,13 +10,12 @@ navbar:
     - text: "About Me"
       href: "posts/abou"
     - icon: fab fa-github
-      href: https://avdiaalexandre.github.io/avdiaalexandre_blog/
-base_url: avdiaalexandre.github.io/avdiaalexandre_blog/
+      href: https://github.com/avdiaalexandre/avdiaalexandre_blog
+base_url: https://avdiaalexandre.github.io/avdiaalexandre_blog/
 collections:
     posts:
       disqus: avdialexandre-blog-1
       share: [twitter, linkedin, facebook]
-      #disqus: 
 output:
   distill::distill_article:
     css: style.css
