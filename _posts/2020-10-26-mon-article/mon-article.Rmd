@@ -4,7 +4,7 @@ description: |
   This post is my first article which is about the link between ecosystems and pandemics.
 author:
   - name: Alexandre Avdia
-    url: {}
+    url: {https://avdiaalexandre.github.io/avdiaalexandre_blog/}
 
 date: 10-26-2020
 #preview: 

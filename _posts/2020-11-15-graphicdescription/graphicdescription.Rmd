@@ -1,0 +1,44 @@
+---
+title: "graphic_description"
+description: Here's an article which analyses a graphics about the size of 4 class of zooplankton.
+author:
+  - name: Avdia Alexandre
+    url: {https://avdiaalexandre.github.io/avdiaalexandre_blog/}
+categories : 
+  - Data Sciences I
+date: 11-15-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r}
+SciViews::R
+```
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+```{r}
+data <- read("zooplankton", package = "data.io")
+```
+
+## Data set description
+This data set is about zooplankton.  Several datas have been measured, all linked to the morphology of zooplankton classes. Due to a matter of claruty, only 4 classes will be analysed.
+
+```{r}
+zooplankton <- read("zooplankton", package = "data.io", lang = "FR")
+
+zooplankton_sub <- filter(zooplankton,
+  class %in% c("Annélide", "Calanoïde", "Cyclopoïde", "Décapode"))
+
+chart(data = zooplankton_sub, ~ size %fill=% class| class) +
+  geom_histogram(bins = 25) +
+  labs(y = "Effectifs", x = "Size (mm)") +
+  scale_fill_viridis_d()
+```
+
+## Graphic analyse.
+This graphic shows the distribution of the size in 4 zooplankton classes. We can see that Annelida is the class that can be the tallest, we can also notice that Calanoida have a big population around 1mm. The main conclusion is that those classes are mostly sized around and above 1mm. 
