@@ -1,0 +1,57 @@
+---
+title: 'Article 2 : How an inexpensive molecule could help to discover the origin
+  of bacteria virulence  '
+author:
+- name: Alexandre Avdia
+  url:
+    https://avdiaalexandre.github.io/avdiaalexandre_blog/: null
+date: "12-06-2020"
+output:
+  html_document:
+    df_print: paged
+  distill::distill_article:
+    self_contained: no
+description: |
+  This post is my second article which will discuss about a study that mays lead to understand what makes a bacteria a pathogen. And so what kind of bacteria can induce pandemics.
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+## SOURCE OF THE ARTICLE WITH PUBLICATION DATE AND WORD COUNT:
+  
+Source of the article: https://www.sciencedaily.com/releases/2020/11/201124092139.htm
+(November 24, 2020)
+  
+Word count: 547
+  
+## SUMMARY 
+
+Soon avaible.
+
+## VOCABULARY
+  
+|     Word   from the text      |     Synonym/definition   in English                                         |     French   translation       |
+|-------------------------------|-----------------------------------------------------------------------------|--------------------------------|
+|     Inexpensive               |     cheap                                                                   |     Bon marché                 |
+|     Strains                   |      a genetic variant or   subtype of a microorganism                      |     Souches                    |
+|     Awareness                 |     concern about and well-informed interest in a   particular situation    |     Sensibilisation            |
+|      Emerge                   |     appear                                                                  |     émerger                    |
+|     Unlike                    |     In opposition to                                                        |     contrairement              |
+|     double-edged sword        |     Smth that can have   both favorable and unfavorable consequences        |     Épée à double tranchant    |
+|     pathogens                 |     Microorganism that   can cause disease                                  |     pathogènes                 |
+|     Virulence                 |     The severity of a   disease                                             |     Virulence                  |
+|     bacteria                  |     Pl. of bacterium                                                        |     bactéries                  |
+|     fundamental   research    |     Research with the   aim of improving scientific theories                |     Recherche fondamentale     |
+
+## ANALYSIS TABLE ABOUT THE STUDY
+  
+|   Researchers?                     | Bernet et al.                                                                                                                                                          |
+|------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Published in? when (if mentioned)? | American Society For Microbiology Journals  Published online November 9, 2020                                                                                          |
+| General topic                      | Study about the bacteria responsible for gonorrhea and meningococcal meningitis  A molecule (Sodium tetraphenylborate) kill the antibiotic restance fot those bacteria |
+| Procedure/what was examined        | This molecule only affects pathogens bacteria  Bacteria may develop resistance --> lost virulence                                                                      |
+| Conclusions/   discovery           | Sodium tetraphenylborate may serve of treatment for   antibiotic resistant Neisseria     This may allow scientist to discover what makes a   bacteria virulent         |
+| Remaining questions                | What makes   this molecule efficient on those two kind of Neisseria                                                                                                    |                                                                                                |
+
+
