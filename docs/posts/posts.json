@@ -1,5 +1,22 @@
 [
   {
+    "path": "posts/2020-12-06-mon-article2/",
+    "title": "Article 2 : How an unexpensive molecule could help to discover the origin of bacteria virulence ",
+    "description": "This post is my second article which will discuss about how a molecule will help to discover what makes a bacterium a pathogen and so how it can lunch a pandemic.",
+    "author": [
+      {
+        "name": "Avdia Alexandre",
+        "url": {
+          "https://avdiaalexandre.github.io/avdiaalexandre_blog/": {}
+        }
+      }
+    ],
+    "date": "2020-12-06",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2020-12-06T17:08:33+01:00"
+  },
+  {
     "path": "posts/2020-11-15-graphicdescription/",
     "title": "graphic_description",
     "description": "Here's an article which analyses a graphics about the size of 4 class of zooplankton.",

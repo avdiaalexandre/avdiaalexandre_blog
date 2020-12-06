@@ -1,30 +1,28 @@
 ---
-title: 'Article 2 : How an inexpensive molecule could help to discover the origin
-  of bacteria virulence  '
-author:
-- name: Alexandre Avdia
-  url:
-    https://avdiaalexandre.github.io/avdiaalexandre_blog/: null
-date: "12-06-2020"
-output:
-  html_document:
-    df_print: paged
-  distill::distill_article:
-    self_contained: no
+title: "Article 2 : How an unexpensive molecule could help to discover the origin of bacteria virulence "
 description: |
-  This post is my second article which will discuss about a study that mays lead to understand what makes a bacteria a pathogen. And so what kind of bacteria can induce pandemics.
+  This post is my second article which will discuss about how a molecule will help to discover what makes a bacterium a pathogen and so how it can lunch a pandemic.
+author:
+  - name: Avdia Alexandre
+    url:
+      https://avdiaalexandre.github.io/avdiaalexandre_blog/: {}
+date: 12-06-2020
+output:
+  distill::distill_article:
+    self_contained: false
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
 ## SOURCE OF THE ARTICLE WITH PUBLICATION DATE AND WORD COUNT:
-  
+
 Source of the article: https://www.sciencedaily.com/releases/2020/11/201124092139.htm
 (November 24, 2020)
-  
+
 Word count: 547
-  
+
+
 ## SUMMARY 
 
 Soon avaible.
@@ -46,12 +44,13 @@ Soon avaible.
 
 ## ANALYSIS TABLE ABOUT THE STUDY
   
-|   Researchers?                     | Bernet et al.                                                                                                                                                          |
-|------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Published in? when (if mentioned)? | American Society For Microbiology Journals  Published online November 9, 2020                                                                                          |
-| General topic                      | Study about the bacteria responsible for gonorrhea and meningococcal meningitis  A molecule (Sodium tetraphenylborate) kill the antibiotic restance fot those bacteria |
-| Procedure/what was examined        | This molecule only affects pathogens bacteria  Bacteria may develop resistance --> lost virulence                                                                      |
-| Conclusions/   discovery           | Sodium tetraphenylborate may serve of treatment for   antibiotic resistant Neisseria     This may allow scientist to discover what makes a   bacteria virulent         |
-| Remaining questions                | What makes   this molecule efficient on those two kind of Neisseria                                                                                                    |                                                                                                |
+|     Researchers?                            |     Bernet et al.                                                                                                                                                                    |
+|---------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|     Published in? when   (if mentioned)?    |     American Society for Microbiology Journals     Published online November 9,   2020                                                                                               |
+|     General topic                           |     Study about the bacteria responsible for   gonorrhea and meningococcal meningitis    A molecule (Sodium   tetraphenylborate) kill the antibiotic resistance of this bacteria     |
+|     Procedure/     what was examined        |     This molecule   only affects pathogens bacteria     Bacteria may   develop resistance à lost virulence                                                                           |
+|     Conclusions/   discovery                |     Sodium tetraphenylborate may serve of treatment for   antibiotic resistant Neisseria     This may allow scientist to discover what makes a   bacteria virulent                   |
+|     Remaining questions                     |     What makes   this molecule efficient on those two kind of Neisseria                                                                                                              |
+
 
 
