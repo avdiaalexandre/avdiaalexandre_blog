@@ -1,0 +1,61 @@
+---
+title: "Article 3 : Self-spreading vaccines as a solution to prevent pandemics ?"
+description: |
+  This is my third article. The first one talked a lot about zoonosis, due to my internet research I heard about a brand new solution which will be resumed in the following article.
+author:
+  - name: Avdia Alexandre
+    url:
+      https://avdiaalexandre.github.io/avdiaalexandre_blog/: {}
+date: 12-07-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## SOURCE OF THE ARTICLE WITH PUBLICATION DATE AND WORD COUNT:
+
+https://cardiffstudentmedia.co.uk/gairrhydd/technology-for-self-spreading-vaccines-now-available/
+
+(2 months before December 07, 2020)
+
+(October 2020)
+
+Word count: 544
+
+
+## SUMMARY 
+
+Soon available.
+
+## VOCABULARY
+  
+|     Word   from the text    |     Synonym/definition   in English    |     French   translation      |
+|-----------------------------|----------------------------------------|-------------------------------|
+|     Spreading               |     Dissemination                      |     Diffusion                 |
+|     Rampage                 |     A period of wildness               |     Carnage                   |
+|     Diseases-harbouring     |     Hiding diseases                    |     Héberger  des maladies    |
+|     Sufficient              |     Adequate                           |     Suffisant                 |
+|     To arise                |     To happen                          |     Survenir                  |
+|     turnover                |     Change ~ rotation                  |     Roulement                 |
+|     Grooming                |     Cleaning                           |     Toilette/toilettage       |
+|     To magnify              |     To grow                            |     Amplifier                 |
+|     To rely on              |     To depend                          |     S’appuie sur              |
+|     Benign                  |     Harmless                           |     Benin                     |
+|     Within                  |     Inside                             |     Au sein                   |
+|     Threat                  |     Risk                               |     Menace                    |
+|     Implementable           |     Usable                             |     Instaurable               |
+|     Unarguably              |     Unquestionably                     |     Incontestablement         |
+
+## ANALYSIS TABLE ABOUT THE STUDY
+  
+|     Researchers?                            |     /     (written by Rowenna Hoskin)                                                                                                                                                                                                   |
+|---------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|     Published in? when   (if mentioned)?    |     Gair   rhydd : Cardiff Uni’s student paper           Published online October 2020                                                                                                                                                  |
+|     General topic                           |     Preventing the emergence of   pathogens by self-spreading vaccines                                                                                                                                                                  |
+|     Procedure/     what was examined        |     Still on field   trials before a wider use     Vaccines spread   by the social interaction of a species      Vaccines spread   by injecting a part of viral genome via an harmless virus                                            |
+|     Conclusions/   discovery                |     This technology is more efficient than others we used   to use      This will cost less to apply that the current method      Better investment to prevent than to cure     This will considerably reduce the risk of zoonosis      |
+|     Remaining questions                     |     /                                                                                                                                                                                                                                   |
