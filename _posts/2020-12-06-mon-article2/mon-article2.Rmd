@@ -44,13 +44,10 @@ Soon available.
 
 ## ANALYSIS TABLE ABOUT THE STUDY
   
-|     Researchers?                            |     Bernet et al.                                                                                                                                                                    |
-|---------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|     Published in? when   (if mentioned)?    |     American Society for Microbiology Journals     Published online November 9,   2020                                                                                               |
-|     General topic                           |     Study about the bacteria responsible for   gonorrhea and meningococcal meningitis     A molecule (Sodium   tetraphenylborate) kills the antibiotic resistance of this bacteria |
-|     Procedure/     what was examined        |     This molecule   only affects pathogens bacteria     Bacteria who   develop resistance  loose virulence                                                                       |
-|     Conclusions/   discovery                |     Sodium tetraphenylborate may serve as a treatment for   antibiotic resistant Neisseria     This may allow scientist to discover what makes    bacteria virulent                    |
-|     Remaining questions                     |     What makes   this molecule efficient on those two kinds of Neisseria                                                                                                              |
-
-
-
+|     Researchers?                            |     * Bernet et al.                                                                                                                                                                           |
+|---------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|     Published in? when   (if mentioned)?    |     * American Society for Microbiology Journals           * Published online November 9, 2020                                                                                                |
+|     General topic                           |     * Study about the bacteria responsible for   gonorrhea and meningococcal meningitis        * A molecule (Sodium   tetraphenylborate) kills the antibiotic resistance of this bacteria     |
+|     Procedure/     what was examined        |     * This   molecule only affects pathogens bacteria         * Bacteria who   develop resistance loose virulence                                                                             |
+|     Conclusions/   discovery                |     * Sodium tetraphenylborate may serve as treatment for   antibiotic resistant Neisseria       * This may allow scientist to discover what makes a   bacteria virulent                      |
+|     Remaining questions                     |     * What makes   this molecule efficient on those two kind of Neisseria                                                                                                                     |
