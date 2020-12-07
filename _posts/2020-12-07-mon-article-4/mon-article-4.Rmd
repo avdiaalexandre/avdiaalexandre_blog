@@ -1,0 +1,58 @@
+---
+title: "Arcticle 4 : Permafrost is melting ! Deadly bacteria and virus awake !"
+description: |
+  Here's my fourth post. The first arcticle place the foundment of the link between climat and pandemics. This fourth article will explain how the increase of temperature awake old bacteria and virus.
+author:
+  - name: Avdia Alexandre
+    url:
+      https://avdiaalexandre.github.io/avdiaalexandre_blog/: {}
+date: 12-07-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## SOURCE OF THE ARTICLE WITH PUBLICATION DATE AND WORD COUNT:
+
+https://now.northropgrumman.com/thawing-permafrost-may-reawaken-old-diseases/
+
+(November 6, 2020)
+
+Word count: 498
+
+## SUMMARY 
+
+Soon available.
+
+## VOCABULARY
+  
+|     Word   from the text    |     Synonym/definition   in English    |     French   translation    |
+|-----------------------------|----------------------------------------|-----------------------------|
+|     Puzzling                |     Surprising                         |     Déroutant               |
+|     Thawing permafrost      |     Melting permafrost                 |     Fonte du permafrost     |
+|     Remote area             |     Distant area                       |     Région reculée          |
+|     Powdery                 |     Powder-like                        |     Poudreux                |
+|     Soil                    |     Ground                             |     Sol                     |
+|     Concern                 |     Worry                              |     Préoccupation           |
+|     Layer                   |     Coat                               |     Couche                  |
+|     Outbreak                |     Upsurge                            |     Foyer                   |
+|     To drill                |     To dig                             |     Percer                  |
+|     Core                    |     Center                             |     Noyau                   |
+|     Store                   |     Stock                              |     Stock                   |
+|     Offset                  |     Counterbalance                     |     Compenser               |
+|     To unearth              |     To pull out                        |     Découvrir               |
+|     Threat                  |     Menace                             |     Menace                  |
+|     Permafrost              |     ~ glacier                          |     Pergélisol              |
+## ANALYSIS TABLE ABOUT THE STUDY
+  
+|     Researchers?                            |     /     Written by JENNI W.   GRITTERS                                                                                                                                                                                                                                                                                                                                                 |
+|---------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|     Published in? when   (if mentioned)?    |     Published   online November 6, 2020                                                                                                                                                                                                                                                                                                                                                  |
+|     General topic                           |     Melt   of the permafrost release dormant disease that can lead to pandemics                                                                                                                                                                                                                                                                                                          |
+|     Procedure/     what was examined        |     20 cases of contamination to anthrax bacteria has been confirmed     80 cases have suspicious symptoms      2300 reindeers died from this bacteria     Disease released depend of the pathogen resistance to cold and   how deep the ice will melt     The largest virus has ever exist on earth has been “resurrected”   and was still infectious even 30 000 after being frozen    |
+|     Conclusions/   discovery                |     The danger is real     We have to be careful to augmentation of temperature especially where   anthrax epidemic already happened in the past                                                                                                                                                                                                                                         |
+|     Remaining questions                     |     /                                                                                                                                                                                                                                                                                                                                                                                    |

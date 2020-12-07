@@ -17,6 +17,23 @@
     "last_modified": "2020-12-07T15:53:12+01:00"
   },
   {
+    "path": "posts/2020-12-07-mon-article-4/",
+    "title": "Arcticle 4 : Permafrost is melting ! Deadly bacteria and virus awake !",
+    "description": "Here's my fourth post. The first arcticle place the foundment of the link between climat and pandemics. This fourth article will explain how the increase of temperature awake old bacteria and virus.",
+    "author": [
+      {
+        "name": "Avdia Alexandre",
+        "url": {
+          "https://avdiaalexandre.github.io/avdiaalexandre_blog/": {}
+        }
+      }
+    ],
+    "date": "2020-12-07",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2020-12-07T19:36:10+01:00"
+  },
+  {
     "path": "posts/2020-12-06-mon-article2/",
     "title": "Article 2 : How an inexpensive molecule could help to discover the origin of bacteria virulence ?",
     "description": "This post is my second article which will talk about how a molecule will help to discover what makes a bacterium a pathogen and how it can lunch a pandemic.",
