@@ -1,0 +1,43 @@
+---
+title: "ARTICLE 5:  Lack of vitamin D linked to weaker immune system"
+description: |
+  The precedent article was about a way to prevent pandemics. But the current situation made me wonder what could strengthen my body in case of an infection. I found out that supplement of vitamin D was the main solution, especially in Belgium where we don’t have that much sunshine.
+author:
+  - name: Avdia Alexandre
+    url:
+      https://avdiaalexandre.github.io/avdiaalexandre_blog/: {}
+date: 03-13-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+## SOURCE OF THE ARTICLE WITH PUBLICATION DATE AND WORD COUNT:
+Source of the article: https://egyptindependent.com/lack-of-vitamin-d-weakens-coronavirus-patients-immune-system/ 
+(May 15, 2020)
+Word count: 555
+
+## VOCABULARY
+|     Word   from the text      |     Synonym/definition   in English       |     French   translation    |
+|-------------------------------|-------------------------------------------|-----------------------------|
+|     Lack                      |     Shortage                              |     Absence de              |
+|     Exposure to   sunlight    |     To show the skin to   the sunlight    |     Exposition              |
+|     To weaken                 |     To reduce/soften                      |     Affaiblir               |
+|     Strengthen                |     Enhance                               |     Renforcer               |
+|     Acute                     |     Severe                                |     Aigu                    |
+|     Prominent                 |     Main                                  |     Principal               |
+|     Connective tissue         |     /                                     |     Tissu conjonctif        |
+|     Egg yolks                 |     /                                     |     Jaune d’oeufs           |
+|     Head of                   |     Chef                                  |     Chef de                 |
+|     Daily basis               |     Every day                             |     Base journalière        |
+## ANALYSIS TABLE ABOUT THE STUDY
+|     Researchers?                            |     /     Edited translation from Al-Masry Al-Youm                                                                                                                                                                                                                                                                                                                                                     |   |
+|---------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---|
+|     Published in? when   (if mentioned)?    |     Egypt independent                                                                                                                                                                                                                                                                                                                                                                                  |   |
+|     General topic                           |     How a lack of vitamin D can lower your   immune system                                                                                                                                                                                                                                                                                                                                             |   |
+|     Procedure/     what was examined        |           # data analysis from hospital and   clinics # examination of the link between the lack of vitamin D and acute   cases of covid-19                                                                                                                                                                                                                                                            |   |
+|     Conclusions/   discovery                |     # Lack of vitamin D happens when there’s not enough sun     # Lack of vitamin D induce several illness     # Lack of vitamin D weakens the immune system     # Vitamin D strengthens the immune system   cause it helps to produce connective tissue      # Taking a supplement of vitamin D is   recommended by several doctor     # immune system cells need vitamin D to   destroy pathogens    |   |
+|     Remaining questions                     |     /                                                                                                                                                                                                                                                                                                                                                                                                  |   |

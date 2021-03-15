@@ -1,0 +1,40 @@
+---
+title: "ARTICLE 7:  On the benefits of being infected by a virus."
+description: |
+  I once heard that the human placenta has a viral origin. Then I’ve been wondering if they were other examples of benefits of being infected by a virus. I found out that a parasitoid wasp takes advantage of an old viral infection. The idea is too see good side of the pathogens.
+author:
+  - name: Avdia Alexandre
+    url:
+      https://avdiaalexandre.github.io/avdiaalexandre_blog/: {}
+date: 03-15-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+## SOURCE OF THE ARTICLE WITH PUBLICATION DATE AND WORD COUNT:
+Source of the article: https://natureecoevocommunity.nature.com/posts/genomes-of-parasitic-wasps-sheds-light-on-the-evolution-of-viral-domestication 
+(Jan 28, 2021)
+Word count: 510
+
+## VOCABULARY: 
+|     Word   from the text    |     Synonym/definition   in English    |     French   translation      |
+|-----------------------------|----------------------------------------|-------------------------------|
+|     parasitoid              |     /                                  |     parasitoïde               |
+|     honey bee               |     /                                  |     Abeille domestique        |
+|     peculiar                |     Strange /   unusual                |     Particulier/   étrange    |
+|     overall                 |     global                             |     global                    |
+|     yeast                   |     /                                  |     Levure                    |
+## ANALYSIS TABLE ABOUT THE STUDY
+|     Researchers?                            |     # Jeremy GAUTHIER     # Elisabeth Herniou     # Drezen                                                                                                                                                                                                                             |
+|---------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|     Published in? when   (if mentioned)?    |     Natureportfolio – Ecology &   Evolution         (Jan 28, 2021)                                                                                                                                                                                                                     |
+|     General topic                           |     #   domestication of a virus, a sort of symbiosis                                                                                                                                                                                                                                  |
+|     Procedure/     what was examined        |           # began with a study about the adaptation   of  Cotesia     # genomic data analysis     # gathering the different pieces of genome                                                                                                                                           |
+|     Conclusions/   discovery                |     # detailed chromosomic map of the viral   genome inside the wasp     # the viral sequences proliferated and colonized   all the chromosomes      # found out that the wasp has “domesticated” the bracovirus     # interesting way to fight against the host   immune defenses.    |
+|     Remaining questions                     |     /                                                                                                                                                                                                                                                                                  |

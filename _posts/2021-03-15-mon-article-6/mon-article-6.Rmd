@@ -1,0 +1,49 @@
+---
+title: "ARTICLE 6:  How the sars-cov-2 sidesteps the evolutionary trade-off."
+description: |
+  "Nothing in Biology Makes Sense Except in the Light of Evolution" Theodosius Dobzhansky. So as a biologist I tried to understand the progression of the current sars-cov2. And the high contagiousness linked to an high mortality seemed a nonsense in the light of evolution. Thus the following article will explain how this virus is able to sidesteps the evolutionary trade-off.
+
+author:
+  - name: Avdia Alexandre
+    url:
+      https://avdiaalexandre.github.io/avdiaalexandre_blog/: {}
+date: 03-15-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+SOURCE OF THE ARTICLE WITH PUBLICATION DATE AND WORD COUNT:
+
+## Source of the article: 
+https://theconversation.com/how-the-coronavirus-escapes-an-evolutionary-trade-off-that-helps-keep-other-pathogens-in-check-140706 
+(June 17, 2020)  
+Word count: 730
+
+## Vocabulary 
+|     Word   from the text    |     Synonym/definition   in English     |     French   translation    |
+|-----------------------------|-----------------------------------------|-----------------------------|
+|     Conversely              |     The opposite                        |     inversement             |
+|     Harm                    |     To be bad to smth   or someone      |     Nuire                   |
+|     Sidesteps               |     ~to hide                            |     Contourner              |
+|     Trade-off               |     In between                          |     Compromis               |
+|     Shedding                |     ~spread                             |     Perte/excression        |
+|     Prevalent               |     Frequent                            |     Fréquent                |
+|     Destructiveness         |     Capacity to destroy                 |     Pouvoir destructeur     |
+|     Corralled               |     Gathered                            |     Rassemblé               |
+|     Stealthily              |     Furtively                           |     Furtivement             |
+|     Strain                  |     /                                   |     Souche                  |
+|     Surrounding (adj)       |     /                                   |     Environnant             |
+
+## ANALYSIS TABLE ABOUT THE STUDY
+
+|     Researchers?                            |     # Athena Aktipis     # Joe Alcock                                                                                                                                                                                                                                                  |
+|---------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|     Published in? when   (if mentioned)?    |     The conversation (June 17, 2020)                                                                                                                                                                                                                                                   |
+|     General topic                           |     # how the sars-cov-2   escapes the evolutionary trade-off                                                                                                                                                                                                                          |
+|     Procedure/     what was examined        |           # usually virus are balanced between   severity and transmissibility     # when the symptom appears     # the percentage of asymptomatic      # who between the youngster and the older   have more acute symptom                                                            |
+|     Conclusions/   discovery                |     # Sars-CoV-2 act like a SIT     # the youngster are used like a propagation   vector      # the older are used like incubator (acute   symptom = high reproduction of the virus)              # those particularities allow this   virus to sidestep the evolutionary trade-off    |
+|     Remaining questions                     |     /                                                                                                                                                                                                                                                                                  |
