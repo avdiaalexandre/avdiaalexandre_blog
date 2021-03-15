@@ -1,7 +1,7 @@
 ---
 title: "ARTICLE 7:  On the benefits of being infected by a virus."
 description: |
-  I once heard that the human placenta has a viral origin. Then I’ve been wondering if they were other examples of benefits of being infected by a virus. I found out that a parasitoid wasp takes advantage of an old viral infection. The idea is too see good side of the pathogens.
+  I once heard that the human placenta has a viral origin. Then I’ve been wondering if there were other examples of benefits of being infected by a virus. I found out that a parasitoid wasp takes advantage of an old viral infection. The idea is too see the good side of the pathogens.
 author:
   - name: Avdia Alexandre
     url:
