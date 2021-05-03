@@ -1,5 +1,57 @@
 [
   {
+    "path": "posts/2021-05-03-conclusion/",
+    "title": "Conclusion",
+    "description": "Here's a text you should read after the articles.",
+    "author": [
+      {
+        "name": "Avdia Alexandre",
+        "url": {
+          "https://avdiaalexandre.github.io/avdiaalexandre_blog/": {}
+        }
+      }
+    ],
+    "date": "2021-05-03",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2021-05-03T22:39:34+02:00"
+  },
+  {
+    "path": "posts/2021-05-03-introduction/",
+    "title": "Introduction",
+    "description": "Here's a text you should read before the articles.",
+    "author": [
+      {
+        "name": "Avdia Alexandre",
+        "url": {
+          "https://avdiaalexandre.github.io/avdiaalexandre_blog/": {}
+        }
+      }
+    ],
+    "date": "2021-05-03",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2021-05-03T22:36:25+02:00"
+  },
+  {
+    "path": "posts/meal/",
+    "title": "My English Activity Log : MEAL",
+    "description": {},
+    "author": [
+      {
+        "name": "Avdia Alexandre",
+        "url": {}
+      }
+    ],
+    "date": "2021-05-03",
+    "categories": [
+      "English for Science",
+      "M.E.A.L."
+    ],
+    "preview": {},
+    "last_modified": "2021-05-03T23:53:18+02:00"
+  },
+  {
     "path": "posts/2021-03-15-mon-article-6/",
     "title": "ARTICLE 6:  How the sars-cov-2 sidesteps the evolutionary trade-off.",
     "description": "\"Nothing in Biology Makes Sense Except in the Light of Evolution\" Theodosius Dobzhansky. So as a biologist I tried to understand the progression of the current sars-cov2. And the high contagiousness linked to an high mortality seemed a nonsense in the light of evolution. Thus the following article will explain how this virus is able to sidesteps the evolutionary trade-off.",
@@ -85,23 +137,6 @@
     "last_modified": "2020-12-07T22:08:47+01:00"
   },
   {
-    "path": "posts/2020-12-06-mon-article/",
-    "title": "mon article",
-    "description": "A short description of the post.",
-    "author": [
-      {
-        "name": "Avdia Alexandre",
-        "url": {
-          "https://avdiaalexandre.github.io/avdiaalexandre_blog/": {}
-        }
-      }
-    ],
-    "date": "2020-12-06",
-    "categories": [],
-    "preview": {},
-    "last_modified": "2020-12-10T18:22:29+01:00"
-  },
-  {
     "path": "posts/2020-12-06-mon-article2/",
     "title": "Article 2 : How an inexpensive molecule could help to discover the origin of bacteria virulence ?",
     "description": "This post is my second article which will talk about how a molecule will help to discover what makes a bacterium a pathogen and how it can lunch a pandemic.",
@@ -140,35 +175,6 @@
     "preview_height": 768
   },
   {
-    "path": "posts/2019-10-24-bacteria-antobiotics/",
-    "title": "Bacterium adaptation",
-    "description": "Analysis of \"More than 6,000 antibiotic resistance genes discovered in the bacteria that inhabit the human gut\"",
-    "author": [
-      {
-        "name": "Student Unknown",
-        "url": {}
-      },
-      {
-        "name": "Nicolas Devilez",
-        "url": {}
-      },
-      {
-        "name": "Engels Guyliann",
-        "url": "https://guyliann.netlify.com/fr"
-      }
-    ],
-    "date": "2020-10-26",
-    "categories": [
-      "English for Science",
-      "Bacteria",
-      "Adaptation"
-    ],
-    "preview": "posts/2019-10-24-bacteria-antobiotics/images/jpg120051fa.png",
-    "last_modified": "2020-10-26T16:51:44+01:00",
-    "preview_width": 3333,
-    "preview_height": 2667
-  },
-  {
     "path": "posts/2020-10-26-mon-article/",
     "title": "Article 1 : Stopping Deforestation Can Prevent Pandemics ",
     "description": "This post is my first article which is about the link between ecosystems and pandemics.",
@@ -184,33 +190,6 @@
     "last_modified": "2020-11-01T22:13:27+01:00"
   },
   {
-    "path": "posts/2019-10-25-biggest-rodent/",
-    "title": "Biggest rodent",
-    "description": "Analysis of \"Biggest rodent 'fought with teeth' like tusks\"",
-    "author": [
-      {
-        "name": "Student Unknown",
-        "url": {}
-      },
-      {
-        "name": "Van Lancker Ingrid",
-        "url": {}
-      },
-      {
-        "name": "Engels Guyliann",
-        "url": "https://guyliann.netlify.com/fr"
-      }
-    ],
-    "date": "2020-10-01",
-    "categories": [
-      "English for Science",
-      "Paleontology",
-      "Rodent"
-    ],
-    "preview": {},
-    "last_modified": "2020-10-26T15:11:18+01:00"
-  },
-  {
     "path": "posts/about/",
     "title": "About Me",
     "description": {},
@@ -222,24 +201,6 @@
     ],
     "date": "2020-10-01",
     "categories": [],
-    "preview": {},
-    "last_modified": "2020-10-26T15:11:18+01:00"
-  },
-  {
-    "path": "posts/meal/",
-    "title": "My English Activity Log : MEAL",
-    "description": {},
-    "author": [
-      {
-        "name": "___",
-        "url": {}
-      }
-    ],
-    "date": "2020-10-01",
-    "categories": [
-      "English for Science",
-      "M.E.A.L."
-    ],
     "preview": {},
     "last_modified": "2020-10-26T15:11:18+01:00"
   }

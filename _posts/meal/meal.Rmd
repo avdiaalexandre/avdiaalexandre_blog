@@ -1,7 +1,7 @@
 ---
 title: "My English Activity Log : MEAL"
 author:
-  - name: "___" 
+  - name: "Avdia Alexandre" 
 date: "`r Sys.Date()`"
 categories:
   - "English for Science"
@@ -14,9 +14,9 @@ Here are a few examples (some of them are based on examples I've read on blogs s
 
 - Sept. 25th: I downloaded the 'BBC News' App on my phone. I've started reading/watching the news on the train for 15 min.
 
-- Oct. 5th: I watched 2 episodes of The Big Bang Theory (English with English subtitles). Pretty funny episodes.
+- Oct. 6th: I watched 2 episodes of Peaky blinders. Very difficult accent
 
-- Oct. 7th: I read 2 chapters of The Immortal Life of Henrietta Lacks. I found the book very interesting so far! It's quite sad but it's important to understand that we don't just work with cells. There are people and stories behind these cells.
+- Oct. 12th: I read all the lyrics of "favourite worst nightmare" on genius. I understand
 
 - Oct. 10th: I went to an English evening. It was nice. Even though I was a bit scared at first, it was easy to speak with people, as everyone has a different English level and I realised my English level is not that bad. I met nice people, an American guy from SHAPE and a Korean girl who's in Mons for a year.
 

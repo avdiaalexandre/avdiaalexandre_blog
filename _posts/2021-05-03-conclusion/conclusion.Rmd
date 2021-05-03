@@ -1,0 +1,33 @@
+---
+title: "Conclusion"
+description: |
+  Here's a text you should read after the articles.
+author:
+  - name: Avdia Alexandre
+    url:
+      https://avdiaalexandre.github.io/avdiaalexandre_blog/: {}
+date: 05-03-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+I’d like to end my portfolio with a short sum up the favorite facts that I learned. 
+A wasp species has seen is genome modified by a virus and it is now able to produce the same toxin
+as the virus does, which is really useful to hunt. 
+Another fact that I like, is that with a litlle supplement in vitamin D, a human is able to strengthen his 
+immune system.
+Let’s now discuss the benefits I had making this blog and reading those articles.
+Creating a blog was the occasion to explore the research universe, to understand the structure of a
+scientific article. It was an open door, a first taste of I hope my future job. Besides that, I made some 
+progress in my English skills, I learned some more vocabulary more specific to my studies and more 
+proper sentences structure too.
+This experience also helped me to broaden my mind on a topic which is frequently misunderstood. In 
+an era where pandemics will be a threat to deal with, I found it interesting to resume some 
+important and fun facts to let people know.
+I hope you had a good time reading my blog !
+

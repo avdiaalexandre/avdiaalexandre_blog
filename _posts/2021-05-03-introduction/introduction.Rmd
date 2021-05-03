@@ -1,0 +1,34 @@
+---
+title: "Introduction"
+description: |
+  Here's a text you should read before the articles.
+author:
+  - name: Avdia Alexandre
+    url:
+      https://avdiaalexandre.github.io/avdiaalexandre_blog/: {}
+date: 05-03-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+Due to the crisis we’re going through, I was particularly interested in the factors that can provoke the
+emergence of pandemics and by association in which measure are we able to prevent it.
+Considering that the topics came naturally with a question that was stuck in my mind, every article 
+answers a question following a common thread. Starting by the link between ecosystem introducing 
+zoonosis. Then, finding different way to prevent pandemics. Finally, ending with a biologist’s guilty 
+pleasure, I mean : linking this topic to the light of evolution.
+Ecosystem are a big part of my blog in fact, ecosystems are closely linked to the emergence of 
+pandemics whether it be awaken by an old virus and bacteria who were asleep in the permafrost or 
+increasing the risks of zoonosis. 
+On this blog you will learn how scientists may prevent pandemics and how you can do it on your own
+with simple supplement food. You will also get to know some weird stuff about pandemics such as 
+vaccine that spread themselves like virus or how natural selection give the opportunity at sars-cov-2 
+to escape the evolutionary trade off. But still, how virus have been useful for other species.
+This blog is a work that takes me bunch of time. I try as much as I can to keep a common thread, in 
+the idea to share my biologist guilty pleasure… Linking as much thing to the light of evolution.
+I hope you’ll enjoy this blog as much as loved the research I’ve done to build it.
+
