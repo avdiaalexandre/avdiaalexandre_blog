@@ -5,9 +5,9 @@ author: Avdia Alexandre
 date: "`r Sys.Date()`"
 output: distill::distill_article
 ---
-
+  
 Hello, my name's Alexandre. I learn biology at Umons.  I'm mostly intrested in biochemestry and biomolecular. Outside the school I like hockey, music, hiking.  
 My goal is to become a biology teacher.
-
+  
 
 - Alexandre/Avdia, Ms. Van Lancker, Biology and 2020-2021
